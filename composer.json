@@ -32,7 +32,7 @@
   ],
   "require":{
     "php":">=5.6.0",
-    "NicolasKulka/wp-review-me":"2.5",
+    "NicolasKulka/wp-review-me":"2.6",
     "tareq1988/wordpress-settings-api-class": "^1.2"
   }
 }
